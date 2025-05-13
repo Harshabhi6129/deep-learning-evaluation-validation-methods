@@ -22,9 +22,7 @@ This project includes:
 |------|-------------|
 | `DL_model_Evaluation_Validation.ipynb` | Core notebook demonstrating classification & regression evaluation metrics. |
 | `report/Deep_Learning_Evaluation_Guide_HarshaAbhinav.pdf` | Medium-style article: conceptual walkthrough of metrics and validation strategies. |
-| `images/` | (Optional) Folder for storing visual outputs like confusion matrix or ROC plots. |
-| `requirements.txt` | Python dependencies needed to run the notebook. |
-| `LICENSE` | MIT License or your preferred open-source license. |
+
 
 ---
 
